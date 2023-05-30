@@ -1,0 +1,2 @@
+# QRCODEShopify
+QRCODEShopify
